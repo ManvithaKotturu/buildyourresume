@@ -1,0 +1,48 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="#FAFAFA">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Choose a Resume Template"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:layout_gravity="center"
+        android:paddingBottom="16dp"
+        android:textColor="#1565C0" />
+
+    <Button
+        android:id="@+id/btn_template1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Template 1"
+        android:textStyle="bold"
+        android:layout_marginTop="16dp"
+        android:backgroundTint="#1565C0"
+        android:textColor="#FFFFFF" />
+
+    <Button
+        android:id="@+id/btn_template2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Template 2"
+        android:textStyle="bold"
+        android:layout_marginTop="16dp"
+        android:backgroundTint="#1976D2"
+        android:textColor="#FFFFFF" />
+
+    <Button
+        android:id="@+id/btn_template3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Template 3"
+        android:textStyle="bold"
+        android:layout_marginTop="16dp"
+        android:backgroundTint="#2196F3"
+        android:textColor="#FFFFFF" />
+
+</LinearLayout>
