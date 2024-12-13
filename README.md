@@ -1,0 +1,1 @@
+ResumeMaker is a user-friendly Android application designed to help users create professional resumes with ease. Built using Android Studio, Java, Groovy, and Firebase Realtime Database, the app enables users to input their personal and academic details, select one of three elegant templates, and generate a resume instantly.
